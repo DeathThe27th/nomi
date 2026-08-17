@@ -1,0 +1,16 @@
+# Local secrets
+.env.local
+.env*.local
+
+# Dependencies and builds
+node_modules/
+.next/
+out/
+dist/
+coverage/
+
+# Vercel
+.vercel/
+
+# Logs
+*.log
