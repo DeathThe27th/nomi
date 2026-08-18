@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "name": "Nomi",
+  "mode": "operate",
+  "tokens": {
+    "colors": {
+      "ink": "#11100f",
+      "inkSoft": "#5f5b55",
+      "paper": "#f7f5ef",
+      "surface": "#fffefb",
+      "line": "#dedad0",
+      "accent": "#ff7048",
+      "success": "#177245",
+      "danger": "#b42318"
+    },
+    "radius": {
+      "control": 13,
+      "message": 18,
+      "panel": 20,
+      "feature": 28
+    },
+    "motion": {
+      "quick": 180,
+      "standard": 220,
+      "easing": "ease-out"
+    },
+    "breakpoints": {
+      "mobile": 640,
+      "compactNav": 900
+    }
+  },
+  "components": {
+    "transactionPlan": "Verified amount, network, status, asset and recipient in one object",
+    "voiceComposer": "Text and raw-audio composer with explicit recording state",
+    "bottomNavigation": "Chat, Activity, Contacts and Settings"
+  }
+}

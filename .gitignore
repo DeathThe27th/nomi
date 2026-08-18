@@ -8,9 +8,13 @@ node_modules/
 out/
 dist/
 coverage/
+*.tsbuildinfo
+.impeccable/review/
 
 # Vercel
 .vercel/
 
 # Logs
 *.log
+.vercel
+.env*
